@@ -1,64 +1,150 @@
 # 🧮 Advanced Calculator
 
-A simple yet powerful calculator built using **HTML, CSS, and JavaScript**. It supports basic arithmetic operations, a dark/light mode switch, and keyboard input support.
+A modern and responsive calculator built using **HTML, CSS, and Vanilla JavaScript**.  
+It supports essential arithmetic operations, keyboard shortcuts, dark/light themes, and a clean user interface optimized for both desktop and mobile devices.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- ✔️ Basic Operations: Addition, Subtraction, Multiplication, Division, and Percentage
-- ✔️ Keyboard Support: `Enter`, `Backspace`, `Escape`, and numeric keys
-- ✔️ Light/Dark Theme Toggle
-- ✔️ Error Handling for Invalid Inputs
-- ✔️ Responsive Design (Desktop & Mobile Friendly)
+### 🔢 Arithmetic Operations
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 💯 Percentage Calculations
+
+### ⌨️ Keyboard Support
+- `0-9` → Number Input
+- `+ - * / %` → Operators
+- `Enter` → Calculate Result
+- `Backspace` → Delete Last Character
+- `Escape` → Clear Display
+
+### 🎨 User Experience
+- 🌙 Dark Mode
+- ☀️ Light Mode
+- 📱 Fully Responsive Design
+- ⚠️ Error Handling for Invalid Expressions
+- 🚀 Fast and Lightweight (No External Libraries)
 
 ---
 
 ## 📸 Preview
 
-### 🌙 Dark Mode
+### 🌙 Dark Theme
 
 ![Dark Mode](assets/screenshot1.png)
 
-### ☀️ Light Mode
+---
+
+### ☀️ Light Theme
 
 ![Light Mode](assets/screenshot2.png)
 
 ---
 
-## 🚀 How to Use
+## 🚀 Getting Started
 
-1. Click numbers and operators to perform calculations.
-2. Press **AC** to clear the input.
-3. Press **DEL** to remove the last character.
-4. Use your keyboard for faster and easier input.
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Kanneboinashivakumar/Advanced-Calculator.git
+```
+
+### 2️⃣ Navigate to the Project Folder
+
+```bash
+cd Advanced-Calculator
+```
+
+### 3️⃣ Run the Application
+
+Simply open:
+
+```text
+index.html
+```
+
+in your preferred browser.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+| Technology | Purpose |
+|------------|----------|
+| HTML5 | Structure & Layout |
+| CSS3 | Styling & Responsive Design |
+| JavaScript (Vanilla JS) | Logic & Interactivity |
 
 ---
 
-## 📦 Installation
+## 📂 Project Structure
 
-Clone the repository:
-
-```bash
-git clone https://github.com/Kanneboinashivakumar/Advanced-Calculator.git
-cd Advanced-Calculator
+```text
+Advanced-Calculator
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets
+│   ├── screenshot1.png
+│   └── screenshot2.png
+│
+└── README.md
 ```
 
-Open `index.html` in your preferred browser.
+---
+
+## 🎯 How to Use
+
+1. Click the buttons to perform calculations.
+2. Press **AC** to clear everything.
+3. Press **DEL** to remove the last character.
+4. Use keyboard shortcuts for faster input.
+5. Toggle between **Dark** and **Light** themes.
+
+---
+
+## 🔮 Future Improvements
+
+- [ ] Scientific Calculator Mode
+- [ ] Calculation History
+- [ ] Memory Functions (M+, M-, MR, MC)
+- [ ] Theme Persistence using Local Storage
+- [ ] Better Animations and Sound Effects
+- [ ] Unit Conversion Tools
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome!
+
+If you'd like to contribute:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a Pull Request.
+
+Please keep the code clean, readable, and beginner-friendly.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
 
 ---
 
 <div align="center">
 
-⭐ **If you found this project helpful, consider giving it a star!**
+### ⭐ If you found this project helpful, consider giving it a star!
+
+🚀 Learning • Building • Improving Every Day
 
 Made with ❤️ by **K. Shiva Kumar**
 
