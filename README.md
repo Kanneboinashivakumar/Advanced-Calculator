@@ -28,3 +28,11 @@ JavaScript (Vanilla JS)
 Clone the repo
 git clone https://github.com/Kanneboinashivakumar/Advanced-Calculator.git
 cd Advanced-Calculator
+
+<div align="center">
+
+⭐ If you found this project helpful, consider giving it a star!
+
+Made with ❤️ by K. Shiva Kumar
+
+</div>
